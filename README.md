@@ -6,6 +6,13 @@
 
 <br>
 
+<div align="center">
+   <br>
+  <a href="https://github.com/Jonas-Victor950">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jonas-Victor950&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Victor950&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 <div >
   <h2 align="center" >💻  Minhas Stacks:</H2>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="foto">
@@ -32,6 +39,9 @@
   Visitantes<br>
   <img src="https://profile-counter.glitch.me/Jonas-Victor950/count.svg" />
 </p>
+ 
+ 
+ 
  
        
      
