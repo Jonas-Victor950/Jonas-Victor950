@@ -1,8 +1,8 @@
  <div>
    <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonas-paiva-23b172149/"><i>Jonas Victor</i></a> 🙋‍♂️</h1>                                      </div>
    
-   #### Desenvolvedor Back-End em formação, 3 anos de experiência como Técnico de Manutenção em empresas como Mercado Livre e Multilaser, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis etc.
-   Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
+   #### Desenvolvedor Back-End, 3 anos de experiência como Técnico de Manutenção em empresas como Mercado Livre e Multilaser, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis etc.
+   #### Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
 
 <br>
 
