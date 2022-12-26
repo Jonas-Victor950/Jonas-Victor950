@@ -1,47 +1,16 @@
- <div>
-   <h1 align="center">Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonas-paiva-23b172149/"><i>Jonas Victor</i></a> 🙋‍♂️</h1>                                      </div>
-   
-   #### Desenvolvedor Back-End, 3 anos de experiência como Técnico de Manutenção em empresas como Mercado Livre e Multilaser, nas quais diariamente coloquei em prática conceitos como: Autonomia, Senso de urgência, Análise de falhas, Metodologias ágeis etc.
-   #### Participei de projetos utilizando linguagens e frameworks que estudo, exemplos aqui no GitHub.
+# 💫 About Me:
+🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas<br>🌱 Me especializando em Desenvolvimento Web Fullstack pela Gama Academy<br>⚡ Inglês fluente<br>⚡ Estudando Francês nos tempos livres (quando há tempo livre)<br>
 
-<br>
 
-<div align="center">
-   <br>
-  <a href="https://github.com/Jonas-Victor950">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jonas-Victor950&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Victor950&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jonasvictor82/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-paiva-23b172149/) 
 
-<div >
-  <h2 align="center" >💻  Minhas Stacks:</H2>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="foto">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express">  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize">
-   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css">
-     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
-</div>
- 
-       
-</div>
-   
-  
-  
-<br>  
- ##
+# 💻 Tech Stack:
+![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 	![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
 
- <br> <p align="center"> 
-  Visitantes<br>
-  <img src="https://profile-counter.glitch.me/Jonas-Victor950/count.svg" />
-</p>
- 
- 
- 
- 
-       
-     
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Victor950&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
