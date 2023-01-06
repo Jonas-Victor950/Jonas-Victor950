@@ -13,4 +13,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/Jonas-Victor950/count.svg" />
+</p>
 
