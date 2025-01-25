@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas<br>🌱 Fullstack Developer<br>⚡ Inglês fluente<br>⚡ Francês avançado<br> Utilizo mais o gitlab da empresa, o link é : https://gitlab.com/jonasPaiva950
+🔭 Análise e Desenvolvimento de Sistemas<br>🌱 Fullstack Developer<br>⚡ Inglês fluente<br>⚡ Francês avançado<br> Utilizo mais o gitlab da empresa, o link é : https://gitlab.com/jonasPaiva950
 
 
 ## 🌐 Socials:
