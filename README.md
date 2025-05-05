@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 Análise e Desenvolvimento de Sistemas<br>🌱 Fullstack Developer<br>⚡ Inglês fluente<br>⚡ Francês avançado<br> Utilizo mais o gitlab da empresa, o link é : https://gitlab.com/jonasPaiva950
-
+🔭 Systems Analysis and Development student  
+🌱 Backend-focused Fullstack Developer | .NET, Node.js, Laravel & AWS  
+⚡ Fluent in English | Advanced in French  
+🔧 Building robust APIs, cloud-based architectures, and scalable solutions using ASP.NET Core, and modern DevOps tools.  
+📦 Strong background in MySQL, SQL Server, MongoDB, Docker, GitLab CI/CD, and cloud infrastructure with AWS (ECS, S3, RDS, CloudWatch).  
+🔗 Most of my repositories are in private GitLab (company projects): https://gitlab.com/jonasPaiva950
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jonasvictor82/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-paiva-23b172149/) 
