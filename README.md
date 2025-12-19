@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Systems Analysis and Development student  
+🔭 Systems Analysis and Development 
 🌱 Backend-focused Fullstack Developer | .NET, Node.js, Laravel & AWS  
 ⚡ Fluent in English | Advanced in French  
 🔧 Building robust APIs, cloud-based architectures, and scalable solutions using ASP.NET Core, and modern DevOps tools.  
